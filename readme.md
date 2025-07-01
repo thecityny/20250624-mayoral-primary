@@ -1,12 +1,12 @@
 # Data Source
 Data in `results-96pct-1203am` is based on unofficial election results scraped from the NYC Board of Elections, last updated at 12:33 a.m. on June 25, 2025.
 
-Shapefiles for election districts and neighborhood tabulation areass (NTA) are from the city Department of City Planning.
+Shapefiles for election districts and neighborhood tabulation areas (NTA) are from the city Department of City Planning.
 
 # Data Dictionary
 Each row corresponds with an election district. Columns are as follows:
 
-- `ed`: Election District
+- `ed`: Election district ID
 - `ct_{name}`: Number of votes a candidate recieved in the first round. Column name is based on a candidate's last name.
 - `ct_total_votes`: Number of total votes casted in an election district
 - `pct_{name}`: Percent of total votes a candidate recieved in the first round. Column name is based on a candidate's last name.
