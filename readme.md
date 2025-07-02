@@ -1,5 +1,5 @@
 # Data Source
-Data in `results` is based on unofficial election results scraped from the NYC Board of Elections, last updated at 12:33 a.m. on June 25, 2025.
+Data in `results.csv` is based on unofficial election results scraped from the NYC Board of Elections, last updated at 12:33 a.m. on June 25, 2025.
 
 Shapefiles for election districts and neighborhood tabulation areas (NTA) are from the city Department of City Planning.
 
